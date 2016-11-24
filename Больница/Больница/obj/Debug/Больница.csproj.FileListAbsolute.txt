@@ -1,0 +1,12 @@
+D:\LABI\ПИ\Больница\Больница\bin\Debug\Больница.exe.config
+D:\LABI\ПИ\Больница\Больница\obj\Debug\Больница.csprojResolveAssemblyReference.cache
+D:\LABI\ПИ\Больница\Больница\obj\Debug\Больница.LoginForm.resources
+D:\LABI\ПИ\Больница\Больница\obj\Debug\Больница.Properties.Resources.resources
+D:\LABI\ПИ\Больница\Больница\obj\Debug\Больница.RegistratorForm.resources
+D:\LABI\ПИ\Больница\Больница\obj\Debug\Больница.csproj.GenerateResource.Cache
+D:\LABI\ПИ\Больница\Больница\bin\Debug\Больница.exe
+D:\LABI\ПИ\Больница\Больница\bin\Debug\Больница.pdb
+D:\LABI\ПИ\Больница\Больница\obj\Debug\Больница.exe
+D:\LABI\ПИ\Больница\Больница\obj\Debug\Больница.pdb
+D:\LABI\ПИ\Больница\Больница\obj\Debug\Больница.DoctorForm.resources
+D:\LABI\ПИ\Больница\Больница\obj\Debug\Больница.ManagerForm.resources
